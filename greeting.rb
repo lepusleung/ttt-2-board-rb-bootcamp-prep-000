@@ -1,10 +1,5 @@
-def greeting
-  puts "Hello World"
+def print_name
+  puts "Guy F"
 end
 
-
-greeting
-greeting
-greeting
-greeting
-greeting
+print_name
